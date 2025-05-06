@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstring>
-
+// Leidy Melissa Giraldo Mina, Liceth Yailineth Riascos Escobar 
 using namespace std;
 
 struct Pelicula {
